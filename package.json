@@ -1,7 +1,7 @@
 {
   "name": "enviro",
   "version": "0.1.0",
-  "homepage": "http://sundar68.github.io/enviro",
+  "homepage": "https://sundar68.github.io/enviro",
   "private": true,
   "dependencies": {
     "@brainhubeu/react-carousel": "^2.0.4",
